@@ -14,5 +14,5 @@ The following actions were performed for a successful model:
 - The model is pickled locally.
 - Evaluation metrics such as Precision, Accuracy, Recall and f1 score were determined.
 
-  Results:
-  The constructed random forest model predicted satisfaction with more than 94.2% accuracy, 95% precision and approximately 94.5% recall.
+Results:
+- The constructed random forest model predicted satisfaction with more than 94.2% accuracy, 95% precision and approximately 94.5% recall.
